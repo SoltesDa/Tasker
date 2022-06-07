@@ -1,5 +1,14 @@
 using Microsoft.AspNetCore.Mvc;
-
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.SignalR.Client;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 namespace Tasker.Controllers
 {
     [ApiController]
@@ -17,7 +26,11 @@ namespace Tasker.Controllers
         {
             _logger = logger;
         }
+        public class Program
+        {
 
+           
+        }
         //[HttpGet(Name = "GetWeatherForecast")]
         //public IEnumerable<WeatherForecast> Get()
         //{

@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Za8kTe2h+f1wyccobY9k/MFutgredIsFv/qZumJFAg6pUnaSAGkiFE28RSHEC/Jx6kfvCKvbxBLmgShfFHcl/A==",
+  "dgSpecHash": "tz8fHNVyOuizi0oUWcGK2UvOVimdG3Z9BvzBGGZTMQw1+fgXEd84Mc1rM4Ytr4VM/CoFG0PKONjS8VvPsTXp0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\chunik\\source\\repos\\Tasker\\Tasker\\Tasker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chunik\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.5\\microsoft.aspnetcore.connections.abstractions.6.0.5.nupkg.sha512",
+    "C:\\Users\\chunik\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.5\\microsoft.aspnetcore.http.connections.client.6.0.5.nupkg.sha512",
+    "C:\\Users\\chunik\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\6.0.5\\microsoft.aspnetcore.http.connections.common.6.0.5.nupkg.sha512",
+    "C:\\Users\\chunik\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\6.0.5\\microsoft.aspnetcore.signalr.client.6.0.5.nupkg.sha512",
+    "C:\\Users\\chunik\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\6.0.5\\microsoft.aspnetcore.signalr.client.core.6.0.5.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.5\\microsoft.aspnetcore.signalr.common.6.0.5.nupkg.sha512",
+    "C:\\Users\\chunik\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.5\\microsoft.aspnetcore.signalr.protocols.json.6.0.5.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
@@ -25,7 +30,7 @@
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.extensions.features\\6.0.5\\microsoft.extensions.features.6.0.5.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\chunik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\chunik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\microsoft.identity.client\\4.21.1\\microsoft.identity.client.4.21.1.nupkg.sha512",
@@ -56,6 +61,7 @@
     "C:\\Users\\chunik\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\chunik\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\chunik\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
