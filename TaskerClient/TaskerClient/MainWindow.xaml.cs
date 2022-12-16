@@ -65,7 +65,7 @@ namespace TaskerClient
         {
             if (hubConnection is not null)
             {
-                await hubConnection.SendAsync("SendMessage", "david", "prdel");
+                await hubConnection.SendAsync("SendMessage", "david", "soltes here");
             }
         }
     }
